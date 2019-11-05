@@ -1,3 +1,6 @@
+// name: Pitou Teng
+// email: pitou_teng@student.uml.edu
+// gui i - a6
 
 document.getElementById('submit').onclick = submit_clicked;
 
