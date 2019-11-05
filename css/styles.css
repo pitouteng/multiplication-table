@@ -17,6 +17,7 @@ td{
   background-color: #85CDCA;
 }
 
+/* rule for check pattern on multiplication table */
 .evenRow td:nth-child(2n+0),
 .oddRow td:nth-child(2n+1){
   background: #ECAD81;
